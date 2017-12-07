@@ -27,7 +27,7 @@ def count_jumps_with_decrease(array):
 
 
 
-array = np.loadtxt('data/day5_input.txt', dtype=int)
+array = np.loadtxt('data/day05_input.txt', dtype=int)
 # array = [0,3,0, 1, -3]
 
 print(count_jumps_with_decrease(array))

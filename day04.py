@@ -1,6 +1,6 @@
 from collections import Counter
 
-file = open('data/day4_input.txt', 'r')
+file = open('data/day04_input.txt', 'r')
 
 
 def count_valid(file):

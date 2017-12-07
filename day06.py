@@ -27,7 +27,7 @@ def count_loop_size(array):
     return  c
 
 
-array = np.loadtxt('data/day6_input.txt', dtype=int)
+array = np.loadtxt('data/day06_input.txt', dtype=int)
 
 print(count_cycles(array)[0])
 print(count_loop_size(array))
