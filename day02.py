@@ -1,7 +1,7 @@
 import numpy as np
 from itertools import combinations
 
-m = np.loadtxt('data/day2_input.txt', dtype=int)
+m = np.loadtxt('data/day02_input.txt', dtype=int)
 
 
 def checksum1(m):
